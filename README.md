@@ -1,5 +1,5 @@
 # scrapy-prayertimes
-This repository contains scrapy project to scrape prayer times in all of cities in Indonesia
+This repository contains scrapy project to scrape prayer times in all of cities in Indonesia from https://www.jadwalsholat.org/
 
 This is some function of this project
 <ul>
