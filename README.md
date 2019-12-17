@@ -17,4 +17,9 @@ This is some function of this project
   To get data about prayer times lasth 3 month, you can use this command<br>
   <b><i>scrapy crawl prayer_time_last_3_months -o result_prayer_time_last_3_months.json</i></b>
 </li>
+  <br>
+<li>
+  To get data about distance & direction to makkah, you can use this command<br>
+  <b><i>scrapy crawl distance_direction_to_makkah -o result_distance_direction_to_makkah.json</i></b>
+</li>
 </ul>  
